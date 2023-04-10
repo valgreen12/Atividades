@@ -1,0 +1,35 @@
+table{
+    border-radius:10px;  
+    width: 500px;
+    background-color:gainsboro;
+}
+
+tr{
+    border-radius:10px black 2px;
+    width: 500px;
+}
+
+th{
+    background-color: green;
+    border-radius: 10px;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    font-size: medium;
+    color: aliceblue;
+}
+
+table{
+    border-radius: 10px;
+}
+
+td{
+    border-radius: 0px;
+    text-align: center;
+}
+
+.fe{
+    background-color: beige ;
+    color: green;
+
+}
+
+

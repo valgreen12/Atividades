@@ -1,0 +1,24 @@
+.tituloprincipal{
+   background-color: darkgreen;
+   color: white;
+   text-align: center;
+}
+
+.fe{
+    text-align: right;
+}
+
+.er{
+    text-align: justify;
+}
+
+a{
+    text-decoration: none;
+    color: black;
+}
+
+a:hover{
+    color: red;
+    text-decoration: underline;
+
+}
